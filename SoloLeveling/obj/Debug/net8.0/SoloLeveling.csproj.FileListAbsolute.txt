@@ -1,0 +1,28 @@
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\bin\Debug\net8.0\SoloLeveling.exe
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\bin\Debug\net8.0\SoloLeveling.deps.json
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\bin\Debug\net8.0\SoloLeveling.runtimeconfig.json
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\bin\Debug\net8.0\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\bin\Debug\net8.0\SoloLeveling.pdb
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.AssemblyInfoInputs.cache
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.AssemblyInfo.cs
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.csproj.CoreCompileInputs.cache
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\refint\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.pdb
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\SoloLeveling.genruntimeconfig.cache
+C:\Users\snail\바탕 화면\학습\SoloLeveling\SoloLeveling\obj\Debug\net8.0\ref\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\bin\Debug\net8.0\SoloLeveling.exe
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\bin\Debug\net8.0\SoloLeveling.deps.json
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\bin\Debug\net8.0\SoloLeveling.runtimeconfig.json
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\bin\Debug\net8.0\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\bin\Debug\net8.0\SoloLeveling.pdb
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.AssemblyInfoInputs.cache
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.AssemblyInfo.cs
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.csproj.CoreCompileInputs.cache
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\refint\SoloLeveling.dll
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.pdb
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\SoloLeveling.genruntimeconfig.cache
+C:\Users\snail\바탕 화면\학습\과제 코덱스\4-2\SoloLeveling\obj\Debug\net8.0\ref\SoloLeveling.dll

@@ -1,0 +1,27 @@
+{
+  "Player": {
+    "Name": "\uC131\uC9C4\uC6B0",
+    "Level": 1,
+    "CurrentExp": 0,
+    "MaxExp": 100,
+    "Rank": 9,
+    "Gold": 1000,
+    "OwnedShadows": [
+      {
+        "Name": "\uAE30\uC0AC \uADF8\uB9BC\uC790",
+        "Level": 100,
+        "Grade": 0,
+        "CurrentExp": 0,
+        "MaxExp": 4040,
+        "CurrentHp": 10500,
+        "MaxHp": 10500,
+        "CurrentMp": 550,
+        "MaxMp": 550,
+        "Attack": 1100,
+        "Defense": 510
+      }
+    ]
+  },
+  "SaveVersion": 1,
+  "CurrentScene": "MainMenu"
+}

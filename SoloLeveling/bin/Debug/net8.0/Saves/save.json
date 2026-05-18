@@ -1,0 +1,168 @@
+{
+  "Player": {
+    "Name": "test",
+    "Level": 10,
+    "CurrentExp": 390,
+    "MaxExp": 550,
+    "Rank": 8,
+    "Gold": 1310,
+    "OwnedShadows": [
+      {
+        "Name": "\uAE30\uC0AC \uADF8\uB9BC\uC790",
+        "Level": 100,
+        "Grade": 0,
+        "CurrentExp": 1860,
+        "MaxExp": 4040,
+        "CurrentHp": 10500,
+        "MaxHp": 10500,
+        "CurrentMp": 550,
+        "MaxMp": 550,
+        "Attack": 1100,
+        "Defense": 510,
+        "Skills": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Name": "\uCD08\uAE09 \uACE0\uBE14\uB9B0",
+        "Level": 6,
+        "Grade": 0,
+        "CurrentExp": 0,
+        "MaxExp": 280,
+        "CurrentHp": 816,
+        "MaxHp": 816,
+        "CurrentMp": 65,
+        "MaxMp": 65,
+        "Attack": 148,
+        "Defense": 27,
+        "Skills": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "Name": "\uC911\uAE09 \uC624\uD06C",
+        "Level": 7,
+        "Grade": 1,
+        "CurrentExp": 200,
+        "MaxExp": 320,
+        "CurrentHp": 1234,
+        "MaxHp": 1541,
+        "CurrentMp": 105,
+        "MaxMp": 105,
+        "Attack": 220,
+        "Defense": 53,
+        "Skills": [
+          0,
+          3,
+          4
+        ]
+      },
+      {
+        "Name": "\uC911\uAE09 \uC624\uD06C",
+        "Level": 13,
+        "Grade": 1,
+        "CurrentExp": 0,
+        "MaxExp": 560,
+        "CurrentHp": 1348,
+        "MaxHp": 1348,
+        "CurrentMp": 99,
+        "MaxMp": 99,
+        "Attack": 194,
+        "Defense": 89,
+        "Skills": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Name": "\uC0C1\uAE09 \uB370\uBAAC",
+        "Level": 24,
+        "Grade": 2,
+        "CurrentExp": 200,
+        "MaxExp": 1000,
+        "CurrentHp": 931,
+        "MaxHp": 2305,
+        "CurrentMp": 137,
+        "MaxMp": 137,
+        "Attack": 274,
+        "Defense": 100,
+        "Skills": [
+          0,
+          3,
+          5
+        ]
+      },
+      {
+        "Name": "\uC0C1\uAE09 \uB370\uBAAC",
+        "Level": 24,
+        "Grade": 2,
+        "CurrentExp": 0,
+        "MaxExp": 1000,
+        "CurrentHp": 2489,
+        "MaxHp": 2489,
+        "CurrentMp": 130,
+        "MaxMp": 130,
+        "Attack": 404,
+        "Defense": 93,
+        "Skills": [
+          0,
+          2,
+          5
+        ]
+      },
+      {
+        "Name": "\uC0C1\uAE09 \uB370\uBAAC",
+        "Level": 19,
+        "Grade": 2,
+        "CurrentExp": 200,
+        "MaxExp": 800,
+        "CurrentHp": 2302,
+        "MaxHp": 2967,
+        "CurrentMp": 189,
+        "MaxMp": 189,
+        "Attack": 415,
+        "Defense": 130,
+        "Skills": [
+          0,
+          7,
+          5
+        ]
+      },
+      {
+        "Name": "\uCD08\uAE09 \uACE0\uBE14\uB9B0",
+        "Level": 10,
+        "Grade": 0,
+        "CurrentExp": 0,
+        "MaxExp": 440,
+        "CurrentHp": 1618,
+        "MaxHp": 1618,
+        "CurrentMp": 129,
+        "MaxMp": 129,
+        "Attack": 258,
+        "Defense": 89,
+        "Skills": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Type": 0,
+        "Count": 2
+      },
+      {
+        "Type": 1,
+        "Count": 1
+      }
+    ]
+  },
+  "SaveVersion": 1,
+  "CurrentScene": "MainMenu"
+}

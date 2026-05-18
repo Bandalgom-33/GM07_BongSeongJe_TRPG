@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\ui\\consolewindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\ui\\consolewindowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\ui\\battleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\ui\\battleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\monsterdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\monsterdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\savedata\\shadowsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\savedata\\shadowsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\systems\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\systems\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\savedata\\playersavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\savedata\\playersavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\savedata\\itemsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\savedata\\itemsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\savedata\\gamesavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\savedata\\gamesavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\entities\\shadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\entities\\shadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\entities\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\entities\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\common\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\common\\structs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\common\\statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\common\\statuseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|c:\\users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\sololeveling\\sololeveling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFCFFD-9B32-41D0-9042-D2DEC49833BF}|SoloLeveling\\SoloLeveling.csproj|solutionrelative:sololeveling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleWindowManager.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\UI\\ConsoleWindowManager.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\UI\\ConsoleWindowManager.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\UI\\ConsoleWindowManager.cs",
+              "RelativeToolTip": "SoloLeveling\\UI\\ConsoleWindowManager.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:03:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonsterDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\MonsterDatabase.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\MonsterDatabase.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\MonsterDatabase.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\MonsterDatabase.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T06:41:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\ItemDatabase.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\ItemDatabase.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\ItemDatabase.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\ItemDatabase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T06:18:49.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemSaveData.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\ItemSaveData.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\SaveData\\ItemSaveData.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\ItemSaveData.cs",
+              "RelativeToolTip": "SoloLeveling\\SaveData\\ItemSaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T06:14:38.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shadow.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Shadow.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Entities\\Shadow.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Shadow.cs",
+              "RelativeToolTip": "SoloLeveling\\Entities\\Shadow.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:20:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Unit.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Entities\\Unit.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Unit.cs",
+              "RelativeToolTip": "SoloLeveling\\Entities\\Unit.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAqwCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:20:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerSaveData.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\PlayerSaveData.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\SaveData\\PlayerSaveData.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\PlayerSaveData.cs",
+              "RelativeToolTip": "SoloLeveling\\SaveData\\PlayerSaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:07:07.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\Enums.cs",
+              "RelativeToolTip": "SoloLeveling\\Common\\Enums.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:19:36.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\SaveManager.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\SaveManager.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\SaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:10:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\Skills.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\Skills.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\Skills.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\Skills.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwCABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:03:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\TurnManager.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\TurnManager.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\TurnManager.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\TurnManager.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAA9wIkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:29:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleUI.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\UI\\BattleUI.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\UI\\BattleUI.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\UI\\BattleUI.cs",
+              "RelativeToolTip": "SoloLeveling\\UI\\BattleUI.cs",
+              "ViewState": "AgIAAPgBAAAAAAAAAAA5wG0EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:21:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Player.cs",
+              "RelativeToolTip": "SoloLeveling\\Entities\\Player.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAQwDMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:16:16.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Monster.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Entities\\Monster.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Monster.cs",
+              "RelativeToolTip": "SoloLeveling\\Entities\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:20:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Inventory.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Entities\\Inventory.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Entities\\Inventory.cs",
+              "RelativeToolTip": "SoloLeveling\\Entities\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:22:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Core\\GameManager.cs",
+              "RelativeToolTip": "SoloLeveling\\Core\\GameManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwNEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T09:12:46.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Structs.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\Structs.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Common\\Structs.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\Structs.cs",
+              "RelativeToolTip": "SoloLeveling\\Common\\Structs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:19:48.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShadowSaveData.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\ShadowSaveData.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\SaveData\\ShadowSaveData.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\ShadowSaveData.cs",
+              "RelativeToolTip": "SoloLeveling\\SaveData\\ShadowSaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:06:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DamageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\DamageCalculator.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Systems\\DamageCalculator.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Systems\\DamageCalculator.cs",
+              "RelativeToolTip": "SoloLeveling\\Systems\\DamageCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:54:33.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatusEffect.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\StatusEffect.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Common\\StatusEffect.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Common\\StatusEffect.cs",
+              "RelativeToolTip": "SoloLeveling\\Common\\StatusEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T02:55:55.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Program.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\Program.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\Program.cs",
+              "RelativeToolTip": "SoloLeveling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:18:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameSaveData.cs",
+              "DocumentMoniker": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\GameSaveData.cs",
+              "RelativeDocumentMoniker": "SoloLeveling\\SaveData\\GameSaveData.cs",
+              "ToolTip": "C:\\Users\\snail\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uC2B5\\SoloLeveling\\SoloLeveling\\SaveData\\GameSaveData.cs",
+              "RelativeToolTip": "SoloLeveling\\SaveData\\GameSaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:07:30.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
